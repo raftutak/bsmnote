@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BSM Note</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="create_password">Create password</string>
+    <string name="note_hint">Write down your note ...</string>
+    <string name="note_save_button">Save your note</string>
+    <string name="no_password_message">Password cannot be empty</string>
+    <string name="change_password_button">Change your password</string>
+    <string name="logout">Logout</string>
+    <string name="new_password">Provide a new password</string>
+    <string name="save_new_password">Save new password</string>
+    <string name="notepad_activity_title">BSM Note - Notepad Activity</string>
+    <string name="main_activity_title">BSM Note - Main Activity</string>
+    <string name="password_activity_title">BSM Note - Password Activity</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="create_password_info">Create your new password.</string>
+    <string name="provide_password_info">Provide your current password.</string>
+    <string name="different_password_message">Password must be different than the previous one</string>
+    <string name="password_changed_message">Password changed successfully</string>
+    <string name="login_success_message">Logged in successfully</string>
+    <string name="password_created_message">Password created successfully</string>
+    <string name="empty_note_message">Note content cannot be empty</string>
+    <string name="different_note_message">Note content must be different than the previous one</string>
+    <string name="note_saved_message">Note saved successfully</string>
+</resources>
